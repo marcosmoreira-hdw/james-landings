@@ -17,12 +17,12 @@
 :root {
     --font-texts: 'Public Sans', sans-serif;
     --font-headings: 'Nuckle', sans-serif;
-    --foreground-default: #fff;
-    --background-default: #000;
-    --background-low: #181818;
-    --border-default: #363636;
-    --foreground-hover: #fffed8;
     --font-size-base: 16px;
+    --foreground-default: #000;
+    --background-default: #fff;
+    --background-low: #F8F8F8;
+    --border-default: #E7E7E7;
+    --foreground-hover: #b49b79;
 }
 
 strong {
